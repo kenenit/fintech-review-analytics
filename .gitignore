@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/
+*.csv
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# PostgreSQL
+*.sql
